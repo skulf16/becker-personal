@@ -17,6 +17,10 @@ const roboto = Roboto({
 });
 
 export const metadata = {
+  metadataBase: new URL("https://www.becker-personal-perspektiven.de"),
+  alternates: {
+    canonical: "/",
+  },
   title: "Becker Personal + Perspektiven – Personalberatung Berlin & Brandenburg",
   description:
     "Becker Personal + Perspektiven unterstützt Unternehmen seit fast 18 Jahren durch Personalberatung in der Region Berlin, Potsdam und dem Land Brandenburg. Personalvermittlung, Headhunting und zukunftsfähige Personalstrategien.",

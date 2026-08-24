@@ -1,0 +1,25 @@
+User-agent: *
+# Spam-/Tracking-Parameter vom Crawling ausschliessen
+Disallow: /*?c=
+Disallow: /*?g=
+Disallow: /*?h=
+Disallow: /*?l=
+Disallow: /*?m=
+Disallow: /*?o=
+Disallow: /*?r=
+Disallow: /*?v=
+Disallow: /*?w=
+Disallow: /*?x=
+Disallow: /*&c=
+Disallow: /*&g=
+Disallow: /*&h=
+Disallow: /*&l=
+Disallow: /*&m=
+Disallow: /*&o=
+Disallow: /*&r=
+Disallow: /*&v=
+Disallow: /*&w=
+Disallow: /*&x=
+Allow: /
+
+Sitemap: https://www.becker-personal-perspektiven.de/sitemap.xml
